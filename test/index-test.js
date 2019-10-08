@@ -42,9 +42,7 @@ it('dec(n) decrements n and returns the result', function() {
     expect(isNaN(makeInt('sldkjflksjf'))).toEqual(true);
   });
 })
-
-
-parseFloat;'('2.222) // 2.222
+parseFloat'('2.222') // ('2.222');
   
      
   
