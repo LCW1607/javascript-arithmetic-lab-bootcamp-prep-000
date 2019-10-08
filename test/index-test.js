@@ -43,8 +43,8 @@ it('dec(n) decrements n and returns the result', function() {
   });
 })
 
-('preserveDecimal(n)', function() 
-  it('preserves n\'s decimals (it parses n as a floating point number) and returns the parsed number', (functionparseFloat('2.222)'
+(preserveDecimal(n), function() 
+  it('preserves n\'s decimals (it parses n as a floating point number) and returns the parsed number' parseFloat('2.222') // (2.222)
      
   
 
